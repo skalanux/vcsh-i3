@@ -62,7 +62,7 @@ modules-right = filesystem alsa xkeyboard memory cpu wlan battery temperature da
 
 tray-position = right
 tray-padding = 0
-#tray-background = #0063ff
+tray-background = #0063ff
 
 ;wm-restack = bspwm
 ;wm-restack = i3
