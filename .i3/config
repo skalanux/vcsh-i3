@@ -453,6 +453,7 @@ mode $close {
 }
 
 bindsym $mod+q mode $close
+exec --no-startup-id /usr/bin/setxkbmap us -variant altgr-intl -option nodeadkeys
 exec --no-startup-id /usr/bin/setxkbmap -option "ctrl:nocaps"
 exec --no-startup-id xcape -e '#66=Escape'
 
