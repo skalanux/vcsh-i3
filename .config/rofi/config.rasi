@@ -7,5 +7,6 @@ font: "Lato 12";
  transparent: rgba(0,0,0,0);
  combi-modi: "window,drun,ssh";
  }
-@theme "/usr/share/rofi/themes/purple.rasi"
+//@theme "/usr/share/rofi/themes/purple.rasi"
 //@theme "/usr/share/rofi/themes/arthur.rasi"
+@theme "/usr/share/rofi/themes/solarized_alternate.rasi"
